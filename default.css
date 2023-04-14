@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+nav{
+    background-color: lightgrey;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+.logo {
+    display: block;
+    width: 100px;
+    margin: 20px;
+}
+
+li a:hover {
+    background-color: darkgrey;
+}
+
+.active {
+    background-color: azure;
+}
+
+.footer { 
+    background-color: antiquewhite;
+    
+}

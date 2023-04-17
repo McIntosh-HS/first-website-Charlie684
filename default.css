@@ -1,8 +1,9 @@
 body {
-    background-color: rgb(255, 255, 255);
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-nav{
+nav {
     background-color: lightgrey;
 }
 
@@ -38,7 +39,8 @@ li a:hover {
     background-color: azure;
 }
 
-.footer { 
-    background-color: antiquewhite;
-    
+footer {
+    font-size: x-small;
+    line-height: 3px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
